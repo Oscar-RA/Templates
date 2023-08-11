@@ -1,2 +1,3 @@
 Aquí estoy probando MSI
-Realicé la verificación desde PC-DELL, estoy es una prueba.
+Realicé la verificación desde PC-DELL.
+Realicé un cambio en DELL, y busco que se vea en MSI.
